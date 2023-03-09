@@ -10,9 +10,9 @@
 <body>
 	<header>
 		<nav>
-			<a href= "/Hobbies/">Hobbies</a> |
-			<a href= "/ReadingList/">Reading List</a> |
-			<a href= "/Music/">Music</a> 
+			<a href= "Hobbies.html">Hobbies</a> |
+			<a href= "ReadingList.html">Reading List</a> |
+			<a href= "Music.html">Music</a> 
 		</nav>
 	</header>
 
