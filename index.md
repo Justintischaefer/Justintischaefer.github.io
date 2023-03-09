@@ -10,9 +10,9 @@
 <body>
 	<header>
 		<nav>
-			<a href= "Justintischaefer.github.io/Hobbies.html">Hobbies</a> |
-			<a href= "Justintischaefer.github.io/ReadingList.html">Reading List</a> |
-			<a href= "Justintischaefer.github.io/Music.html">Music</a> 
+			<a href= "/Hobbies.html"/>Hobbies</a> |
+			<a href= "/ReadingList.html"/>Reading List</a> |
+			<a href= "/Music.html"/>Music</a> 
 		</nav>
 	</header>
 
