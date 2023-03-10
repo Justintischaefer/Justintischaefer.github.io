@@ -35,6 +35,7 @@ body{
 
 section{
  background-color: SandyBrown;
+ width: 700px;
  padding: 50px;
  margin:20px;
 }
@@ -45,7 +46,7 @@ dl{
 
 footer{
   background-color:PeachPuff;
-  width: 1000px;
+  width: 700px;
   padding: 50px;
   margin: 200px;
 }
