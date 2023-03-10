@@ -10,8 +10,6 @@ nav{
 
 header{
   background-color:Beige;
-  
-  
 }
 
 p{
@@ -41,3 +39,12 @@ section{
  margin:20px;
 }
 
+dl{
+ color:Teal; 
+}
+
+footer{
+  background-color:PeachPuff;
+  padding: 50px;
+  margin: 200px;
+}
