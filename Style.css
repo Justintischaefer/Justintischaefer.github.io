@@ -31,7 +31,13 @@ h3{
 body{
   background-color:Beige;
   width: 500px;
-  padding: 150px;
+  padding: 50px;
   margin: 50px;
+}
+
+section{
+ background-color: SandyBrown;
+ padding: 50px;
+ margin:20px;
 }
 
