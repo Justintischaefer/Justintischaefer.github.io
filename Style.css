@@ -19,6 +19,15 @@ p{
   color: SaddleBrown;
 }
 
+h1{
+  font-family: Garamond, Georgia, Times New Roman;
+  color: SeaGreen;
+}
+
+h3{
+ color:RoyalBlue; 
+}
+
 body{
   background-color:Beige;
   width: 500px;
