@@ -1,8 +1,15 @@
 nav{
   background-color:BurlyWood;
   text-align:center;
-  width: 300px;
-  border: 15px BlanchedAlmond;
+  width: 500px;
+  border: 100px BlanchedAlmond;
   padding: 5px;
   margin: 15px;
+  color: SaddleBrown;
+}
+
+header{
+  background-color:Beige;
+  Width:1000px;
+  
 }
